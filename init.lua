@@ -1,0 +1,2 @@
+require("amogh")
+print("hello")
